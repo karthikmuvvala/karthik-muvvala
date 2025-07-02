@@ -1,7 +1,7 @@
 # Hey Everyone! I'm [Karthik](https://github.com/karthik) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 
 ## 🙋‍♂️ About Me:
-- 🚀 I'm currently working on ... learning Python from Pythonlife. <br>
+- 🚀 I'm currently working on ... learning Python from Pythonlife under the guidance of **Vasukumar Palani**. <br>
 - 🌱 I'm currently learning ... Python programming. <br>
 - 🎯 I'm passionate about becoming proficient in Python and exploring more advanced programming concepts. <br>
 - 💡 Ask me about:
