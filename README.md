@@ -1,5 +1,7 @@
 # Hey Everyone! I'm [Karthik](https://github.com/karthik) <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="25px">
 
+<img src="https://github.com/your-github-username/your-repo-name/blob/main/your-image-file.jpg" width="200px" style="border-radius: 50%;" />
+
 ## 🙋‍♂️ About Me:
 - 🚀 I'm currently working on ... learning Python from Pythonlife under the guidance of **Vasukumar Palani**. <br>
 - 🌱 I'm currently learning ... Python programming. <br>
