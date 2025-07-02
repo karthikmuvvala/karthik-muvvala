@@ -1,6 +1,5 @@
 # Hey Everyone! I'm [Karthik](https://github.com/karthikmuvvala) 👋
-
-#<img src="https://github.com/karthikmuvvala/karthikmuvvala/blob/main/WhatsApp%20Image%202025-03-05%20at%2021.07.33_5ffb311c.jpg?raw=true" width="200px" style="border-radius: 50%;" />
+<img src="https://github.com/karthikmuvvala/karthikmuvvala/blob/main/WhatsApp%20Image%202025-03-05%20at%2021.07.33_5ffb311c.jpg?raw=true" width="200px" style="border-radius: 50%;" />
 
 ## 🙋‍♂️ About Me:
 - 🚀 I'm currently working on ... learning Python from Pythonlife under the guidance of **Vasukumar Palani**. <br>
